@@ -1,0 +1,26 @@
+table , th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+h1 {
+    text-emphasis: bold;
+}
+
+.intro-text {
+    font-size: 18px;
+    color: orange;
+}
+
+.nav-item {
+    display: inline-block;
+    width: 22%;
+
+}
+
+.navbar-nav {
+    background-color: rgba(245, 245, 250, 0.658);
+    color: rgb(0, 0, 0);
+    word-spacing: 15px;
+}
